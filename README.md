@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Satti 👋
 
-<!--
-**satti-112/satti-112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys turning ideas into practical projects and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## What I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building useful software and experimenting with new tools
+- Improving problem-solving and software design skills
+- Collaborating on interesting open-source projects
+
+## Goals
+
+- Share projects that solve real problems
+- Learn consistently and document the journey
+- Connect with developers and grow together
+
+> Always curious. Always building.
